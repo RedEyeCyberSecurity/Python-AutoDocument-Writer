@@ -48,8 +48,8 @@ This project consists of two main functionalities:
    Clone this repository to your local system.
 
    ```bash
-   git clone https://github.com/<yourusername>/<repository-name>.git
-   cd <repository-name>
+   git clone https://github.com/RedEyeCyberSecurity/Python-AutoDocument-Writer.git
+   
 
 
 Install dependencies: Ensure you have the necessary Python libraries. Run the following:
